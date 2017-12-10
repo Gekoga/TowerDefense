@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ac67c979a28d0394497a78b4134791c1
+timeCreated: 1512916825
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dream MMA
+  fontNames:
+  - Dream MMA
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
